@@ -1,4 +1,4 @@
-##Privacy Policy 
+## Privacy Policy 
 
 
 ### 1. Introduction
@@ -14,7 +14,6 @@ Everywhere below in the text "I" is meant "Sankyutech Sdn Bhd". I promise to pro
 
 ### 2. Providing - You control it
 This app does NOT use this information for other purposes.
-
 This app does NOT collect or share this information.
 
 ### 3. Location information
