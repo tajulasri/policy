@@ -8,13 +8,15 @@ This Privacy Policy governs your use of the mobile application "Nana Jewellery",
 
 ### This app provides the following information:
 
-Running contest for our products via mobile apps
+This apps is for running contest for our products via mobile apps 
+This apps is using your device's camera for QR code scanning purpose.
 
 Everywhere below in the text "I" is meant "Sankyutech Sdn Bhd". I promise to protect your security, personal data and information regarding the meaning of this document.
 
 ### 2. Providing - You control it
 This app does NOT use this information for other purposes.
 This app does NOT collect or share this information. eg:  email and phone number for registration app purpose.
+This app does NOT access any private media inside your devices.
 
 ### 3. Location information
 This app does NOT collect any location information for your mobile device.
