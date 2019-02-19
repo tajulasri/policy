@@ -4,18 +4,17 @@
 ### 1. Introduction
 
 
-This Privacy Policy governs your use of the mobile application "Shah Gold", for Apple iPhone, iPad, iPod, with iOS version 8.0 or later, created by me, Sankyutech Sdn Bhd.
+This Privacy Policy governs your use of the mobile application "Nana Jewellery", for Apple iPhone, iPad, iPod, with iOS version 8.0 or later, created by me, Sankyutech Sdn Bhd.
 
 ### This app provides the following information:
 
-Display current our gold price within apps
+Running contest for our products via mobile apps
 
 Everywhere below in the text "I" is meant "Sankyutech Sdn Bhd". I promise to protect your security, personal data and information regarding the meaning of this document.
 
 ### 2. Providing - You control it
 This app does NOT use this information for other purposes.
-
-This app does NOT collect or share this information.
+This app does NOT collect or share this information. eg:  email and phone number for registration app purpose.
 
 ### 3. Location information
 This app does NOT collect any location information for your mobile device.
